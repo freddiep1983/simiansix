@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Simiansix</title>
+    <link href="https://www.simiansix.com/feed.xml" rel="self" />
+    <link href="https://www.simiansix.com" />
+    <updated>2021-07-22T20:34:09+10:00</updated>
+    <author>
+        <name>Frederick Penny</name>
+    </author>
+    <id>https://www.simiansix.com</id>
+
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Frederick Penny</name>
+        </author>
+        <link href="https://www.simiansix.com/home.html"/>
+        <id>https://www.simiansix.com/home.html</id>
+
+        <updated>2021-07-22T20:34:09+10:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

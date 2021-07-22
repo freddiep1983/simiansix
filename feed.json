@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Simiansix",
+    "description": "",
+    "home_page_url": "https://www.simiansix.com",
+    "feed_url": "https://www.simiansix.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Frederick Penny"
+    },
+    "items": [
+        {
+            "id": "https://www.simiansix.com/home.html",
+            "url": "https://www.simiansix.com/home.html",
+            "title": "Home",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Frederick Penny"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-22T20:34:09+10:00",
+            "date_modified": "2021-07-22T20:34:09+10:00"
+        }
+    ]
+}
